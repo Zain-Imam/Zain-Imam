@@ -70,5 +70,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Imam&" alt="zain-imam" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zain-Imam" alt="zain-imam" />
 </p>
