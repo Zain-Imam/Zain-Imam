@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋, I'm Zain Imam <br> <br> </h1>
+<h1 align="center">Hey 👋, I'm Zain Imam</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=435&lines=QA+Engineer;Test+Automation+Specialist;Playwright+%7C+Cypress+%7C+Selenium" alt="Typing SVG" />
+</p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -50,25 +56,33 @@
   </a>
 </p>
 
-<h1 align="center"></h1>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/zain-imam-965b05237/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-imam" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/zain.imam.545" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zain-imam" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" height="30" width="40" />
   </a>
 </p>
 
-<h1 align="center"></h1>
 <br>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zain-Imam" alt="zain-imam" />
+  <img src="https://streak-stats.demolab.com/?user=Zain-Imam&theme=dark" alt="streak stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Imam&theme=github-compact" alt="activity graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake.svg" alt="contribution snake" />
 </p>
