@@ -61,7 +61,7 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zain-imam-965b05237/" target="blank">
+  <a href="https://www.linkedin.com/in/zayn-imam/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="blank">
