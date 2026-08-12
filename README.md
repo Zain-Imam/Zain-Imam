@@ -14,19 +14,38 @@
 
 <h3 align="left">🔭 Featured work</h3>
 
-<p align="center">
-  <a href="https://github.com/Zain-Imam/playwright-e2e-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Imam&repo=playwright-e2e-framework&theme=dark" alt="playwright-e2e-framework" />
-  </a>
-  <a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Imam&repo=playwright-mcp-ai-testing&theme=dark" alt="playwright-mcp-ai-testing" />
-  </a>
-</p>
-
-<p align="center">
-  <b><a href="https://github.com/Zain-Imam/playwright-e2e-framework">playwright-e2e-framework</a></b> — Playwright + TypeScript E2E framework: Page Object Model, custom fixtures, data-driven tests, tag-based suites, green CI.<br/>
-  <b><a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">playwright-mcp-ai-testing</a></b> — AI-augmented testing with the Playwright MCP server: a documented authoring session, the agent's raw draft, and the human-refined suite CI runs.
-</p>
+<table align="center">
+  <tr>
+    <th width="50%">
+      <a href="https://github.com/Zain-Imam/playwright-e2e-framework">🧪 playwright-e2e-framework</a>
+    </th>
+    <th width="50%">
+      <a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">🤖 playwright-mcp-ai-testing</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Production-style E2E framework — Page Object Model, custom fixtures, data-driven tests, tag-based <code>@smoke</code>/<code>@regression</code> suites.
+    </td>
+    <td>
+      AI-augmented testing with the Playwright MCP server — a documented authoring session, the agent's raw draft preserved verbatim, and the human-refined suite CI runs.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Zain-Imam/playwright-e2e-framework/actions/workflows/playwright.yml/badge.svg" alt="CI status" /><br/>
+      <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Zain-Imam/playwright-mcp-ai-testing/actions/workflows/tests.yml/badge.svg" alt="CI status" /><br/>
+      <img src="https://img.shields.io/badge/Playwright_MCP-8A2BE2?style=flat-square" alt="Playwright MCP" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square" alt="AI Agents" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
