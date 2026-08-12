@@ -1,71 +1,73 @@
 <h1 align="center">Hey 👋, I'm Zain Imam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=435&lines=QA+Engineer;Test+Automation+Specialist;Playwright+%7C+Cypress+%7C+Selenium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=500&lines=Test+Automation+Engineer;Playwright+%7C+Nightwatch.js+%7C+Selenium;AI-Augmented+Testing+%7C+Playwright+MCP" alt="Typing SVG" />
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="center"> 
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="playwright" width="45" height="45"/>
-  </a>
-  <a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://nightwatchjs.org/images/nightwatch-circle.png" alt="nightwatch" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
-  </a>
-  <a href="https://artillery.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idE9-kpeJv/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="artillery" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zayn-imam/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  Test Automation Engineer building end-to-end frameworks across web, mobile, and API — and integrating AI agents into the QA workflow.<br/>
+  CI pipelines that cut release cycles by <b>~30%</b> · MCP-assisted authoring that cut test creation time by <b>~40%</b>.<br/>
+  <i>My professional work lives in private company repos — the projects below demonstrate the same patterns in public.</i>
+</p>
+
+<br>
+
+<h3 align="left">🔭 Featured work</h3>
+
+<p align="center">
+  <a href="https://github.com/Zain-Imam/playwright-e2e-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Imam&repo=playwright-e2e-framework&theme=dark" alt="playwright-e2e-framework" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" height="30" width="40" />
+  <a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Imam&repo=playwright-mcp-ai-testing&theme=dark" alt="playwright-mcp-ai-testing" />
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/Zain-Imam/playwright-e2e-framework">playwright-e2e-framework</a></b> — Playwright + TypeScript E2E framework: Page Object Model, custom fixtures, data-driven tests, tag-based suites, green CI.<br/>
+  <b><a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">playwright-mcp-ai-testing</a></b> — AI-augmented testing with the Playwright MCP server: a documented authoring session, the agent's raw draft, and the human-refined suite CI runs.
+</p>
+
+<br>
+
+<h3 align="left">🛠️ Toolbox</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Nightwatch.js-D55B76?style=for-the-badge" alt="Nightwatch.js" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cucumber_(BDD)-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/REST_%26_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="REST and GraphQL" />
+  <img src="https://img.shields.io/badge/Playwright_MCP-8A2BE2?style=for-the-badge" alt="Playwright MCP" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+<br>
+
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zayn-imam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zainimam654@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
 
@@ -75,13 +77,9 @@
   <img src="https://streak-stats.demolab.com/?user=Zain-Imam&theme=dark" alt="streak stats" />
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Imam&theme=github-compact" alt="activity graph" />
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake.svg" alt="contribution snake" />
