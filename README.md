@@ -47,6 +47,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <b>Also built:</b> <a href="https://github.com/Zain-Imam/iina-episode-info">🎬 iina-episode-info</a> — a TMDB episode-info &amp; subtitle-search plugin listed in the official community plugins directory of <a href="https://github.com/iina/iina">IINA</a> <img src="https://img.shields.io/github/stars/iina/iina?style=social" alt="IINA stars" valign="middle" />, the popular open-source macOS video player.
+</p>
+
 <br>
 
 <h3 align="left">🛠️ Toolbox</h3>
