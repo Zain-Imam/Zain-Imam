@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Imam&theme=github-compact" alt="activity graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Zain Imam's animated 3D contribution graph" width="100%" />
 </p>
 
 <p align="center">
