@@ -16,20 +16,12 @@
 
 <table align="center">
   <tr>
-    <th width="50%">
-      <a href="https://github.com/Zain-Imam/playwright-e2e-framework">🧪 playwright-e2e-framework</a>
-    </th>
-    <th width="50%">
-      <a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">🤖 playwright-mcp-ai-testing</a>
-    </th>
+    <th width="50%"><a href="https://github.com/Zain-Imam/playwright-e2e-framework">🧪 playwright-e2e-framework</a></th>
+    <th width="50%"><a href="https://github.com/Zain-Imam/playwright-mcp-ai-testing">🤖 playwright-mcp-ai-testing</a></th>
   </tr>
   <tr>
-    <td>
-      Production-style E2E framework — Page Object Model, custom fixtures, data-driven tests, tag-based <code>@smoke</code>/<code>@regression</code> suites.
-    </td>
-    <td>
-      AI-augmented testing with the Playwright MCP server — a documented authoring session, the agent's raw draft preserved verbatim, and the human-refined suite CI runs.
-    </td>
+    <td>Production-style E2E framework — Page Object Model, custom fixtures, data-driven tests, tag-based <code>@smoke</code>/<code>@regression</code> suites.</td>
+    <td>AI-augmented testing with the Playwright MCP server — a documented authoring session, the agent's raw draft preserved verbatim, and the human-refined suite CI runs.</td>
   </tr>
   <tr>
     <td align="center">
@@ -83,27 +75,33 @@
 <h3 align="left">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zayn-imam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zainimam654@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
+  <a href="https://www.linkedin.com/in/zayn-imam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zainimam654@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.upwork.com/freelancers/~01c715768519c1fccf" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zain-Imam&theme=dark" alt="streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zain-Imam&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zain-Imam&theme=default" />
+    <img src="https://streak-stats.demolab.com/?user=Zain-Imam&theme=default" alt="Zain Imam's GitHub streak statistics" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Zain Imam's animated 3D contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg" />
+    <img src="./profile-3d-contrib/profile-light.svg" alt="Zain Imam's animated 3D contribution graph" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Zain-Imam/Zain-Imam/output/snake.svg" alt="Zain Imam's contribution snake animation" width="100%" />
+  </picture>
 </p>
