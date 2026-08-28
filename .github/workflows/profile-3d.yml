@@ -11,16 +11,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Generate 3D contribution graph
+      - name: Generate light and dark animated graphs
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Commit generated graphs
         run: |
@@ -30,6 +30,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No graph changes"
           else
-            git commit -m "chore: update 3D contribution graph"
+            git commit -m "chore: update 3D contribution graphs"
             git push
           fi
